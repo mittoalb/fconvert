@@ -256,6 +256,8 @@ if __name__ == "__main__":
 
 	#Create shared array
 	#Parallelization
+	filelist.sort()
+
 	proj=range(0,len(filelist)-1-binf,binf)
 	slice_number = mp.Array('i',1)
 	
