@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: fconvert
+Version: 0.0.1
+Summary: Small file converter/binner
+Author-email: Alberto Mittone <alberto.mittone@gmail.com>
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENCE

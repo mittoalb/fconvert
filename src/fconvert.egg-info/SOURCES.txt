@@ -1,0 +1,9 @@
+LICENCE
+README.md
+pyproject.toml
+src/fconv/__init__.py
+src/fconv/fconvert.py
+src/fconvert.egg-info/PKG-INFO
+src/fconvert.egg-info/SOURCES.txt
+src/fconvert.egg-info/dependency_links.txt
+src/fconvert.egg-info/top_level.txt

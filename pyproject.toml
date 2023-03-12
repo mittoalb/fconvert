@@ -1,0 +1,18 @@
+[project]
+name = "fconvert"
+version = "0.0.1"
+authors = [
+  { name="Alberto Mittone", email="alberto.mittone@gmail.com" },
+]
+description = "Small file converter/binner"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/pypa/sampleproject"
+"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
