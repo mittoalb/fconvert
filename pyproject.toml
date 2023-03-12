@@ -12,7 +12,10 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
+[dependencies]
+fabio = "2022.12.1"
+
 
 [project.urls]
-"Homepage" = "https://github.com/pypa/sampleproject"
-"Bug Tracker" = "https://github.com/pypa/sampleproject/issues"
+"Homepage" = "https://github.com/mittoalb/fconvert"
+"Bug Tracker" = "https://github.com/mittoalb/fconvert/issues"

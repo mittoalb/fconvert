@@ -3,8 +3,8 @@ Name: fconvert
 Version: 0.0.1
 Summary: Small file converter/binner
 Author-email: Alberto Mittone <alberto.mittone@gmail.com>
-Project-URL: Homepage, https://github.com/pypa/sampleproject
-Project-URL: Bug Tracker, https://github.com/pypa/sampleproject/issues
+Project-URL: Homepage, https://github.com/mittoalb/fconvert
+Project-URL: Bug Tracker, https://github.com/mittoalb/fconvert/issues
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
 Classifier: Operating System :: OS Independent
